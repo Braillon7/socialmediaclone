@@ -282,7 +282,7 @@ box-shadow: 3px 4px 6px 1px rgba(77,74,77,0.75);
 }
 
 #content-area .main-area .widget-box.post .head .user-img-container{
-  width: 8%;
+  width: 11%;
   display: inline-block;
   overflow: auto;
   float: left;
@@ -297,7 +297,7 @@ box-shadow: 3px 4px 6px 1px rgba(77,74,77,0.75);
   -o-background-size: cover;
   background-size: cover;
   height: 40px;
-  width: 45px;
+  width: 100%;
   margin: 0;
   border-radius: 50%;
 }
@@ -306,6 +306,7 @@ box-shadow: 3px 4px 6px 1px rgba(77,74,77,0.75);
   display: inline-block;
   float: left;
   width: 92%;
+  padding-left: 10px;
 }
 #content-area .main-area .widget-box.post .head::after {
   content: " ";
